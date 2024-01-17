@@ -1,6 +1,4 @@
-# Privacy policy template
-
-- Privacy Policy for Mosquito Hit
+# Privacy Policy for Mosquito Hit
 
 # Privacy Policy
 
